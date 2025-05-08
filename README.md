@@ -47,11 +47,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - Weather data provided by OpenWeather
-- Icons from [Weather Icons Library]
+- Icons from Me
 - Inspiration from modern weather applications
 
 ## Author
 
-- Your Name
+- Haitam
 - GitHub: [@yourusername]
-- LinkedIn: [Your LinkedIn]
+- LinkedIn: Haitam Marzouki
